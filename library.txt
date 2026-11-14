@@ -1,0 +1,7 @@
+1|Clean Code|Robert C. Martin|1||0|0|0
+2|Atomic Habits|James Clear|1||0|0|0
+3|The Alchemist|Paulo Coelho|1||0|0|0
+4|The Pragmatic Programmer|Andrew Hunt and David Thomas|1||0|0|0
+5|Deep Work|Cal Newport|1||0|0|0
+6|The Psychology of Money|Morgan Housel|0|student|1793264810|1794474410|3
+7|Mary's Rainbow|Clementia|1||0|0|0
